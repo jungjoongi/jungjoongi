@@ -30,17 +30,6 @@ Specialized in backend development with Kotlin, JAVA, with expertise in AWS netw
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jungjoongi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FE428E&icon_color=A960FF&text_color=C9D1D9&ring_color=FE428E" width="49%" />
-<img src="https://streak-stats.demolab.com?user=jungjoongi&theme=radical&hide_border=true&background=0D1117&stroke=FE428E&ring=A960FF&fire=FE428E&currStreakLabel=FE428E" width="49%" />
-
-</div>
-
----
-
 <div align="center">
 
 <picture>
