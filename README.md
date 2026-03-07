@@ -2,7 +2,8 @@
 
 Software Engineer
 
-Kotlin, Spring 기반 백엔드를 주력으로 하며, React/Vue 프론트엔드와 AWS 인프라까지 다루는 풀스택 엔지니어입니다.
+Specialized in backend development with Kotlin, JAVA, with expertise in AWS network and architecture design
+
 
 ---
 
