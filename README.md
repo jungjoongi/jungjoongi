@@ -9,7 +9,7 @@ Specialized in backend development with Kotlin, JAVA, with expertise in AWS netw
 ### 📊 AI Usage Embed
 <div align="center">
 
-  [![Tokscale Stats](https://tokscale.ai/api/embed/jungjoongi/svg?sort=cost&compact=1)](https://tokscale.ai/u/jungjoongi)
+  [![Tokscale Stats](https://tokscale.ai/api/embed/jungjoongi/svg?rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/jungjoongi)
 
 </div>
 
